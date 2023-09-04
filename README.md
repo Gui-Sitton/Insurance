@@ -11,7 +11,11 @@ The insurance company Protect Your Tomorrow wants to solve some tasks with the h
 
 It is necessary to develop a data transformation algorithm that would make it difficult to recover personal information if the data fell into the wrong hands. This is called data masking or data obfuscation. But the data must be protected in such a way that the quality of the machine learning models does not deteriorate.
 
-![graphic used in the project notebook]("C:\\Users\\Guilherme\\Downloads\\newplot.png")
+
+
+![C:\\Users\\Guilherme\\Downloads\\newplot.png](https://github.com/Gui-Sitton/Insurance/blob/main/newplot%20(1).png?raw=true)"
+_graphic used in the project notebook_
+
 
 **Conclusions**
 * There are no very clear groups, but in a 3d graph you can get a better idea of how the dataframe behaves.
